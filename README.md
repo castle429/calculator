@@ -1,0 +1,1 @@
+A simple calculator app with addition, subtraction, mulitplication, and division functionality. Supports decimal numbers, clear-all functionality, and a backspace button in case you accidentally click the wrong number. Enjoy!
